@@ -1,4 +1,6 @@
-### Hi there 👋
+### Aloo, soy César Palma, estudiante en Ingeniería en Computación, apasionado por crear y aprender :)
+
+
 
 <!--
 **Palmacrush/Palmacrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
