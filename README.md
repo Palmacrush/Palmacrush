@@ -1,4 +1,4 @@
-### Alo, soy César Palma. Espero que los malos hábitos me dejen un día de estos
+###
 
 
 <!--
