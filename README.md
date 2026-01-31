@@ -1,5 +1,4 @@
-### Aloo, soy César Palma, estudiante en Ingeniería en Computación, apasionado por crear y aprender :)
-
+### Alo, soy César Palma. Espero que los malos hábitos me dejen un día de estos
 
 
 <!--
